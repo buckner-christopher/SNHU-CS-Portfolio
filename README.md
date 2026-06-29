@@ -40,7 +40,7 @@ My approach to designing the software was to break the problem into smaller piec
 
 ---
 
-## CS300 – Advising Assistance Program
+## CS300 – Analysis and Design
 
 **Artifact:**  
 [ProjectTwo.cpp](CS300/ProjectTwo.cpp)
