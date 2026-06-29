@@ -58,3 +58,17 @@ This project strengthened my skills in algorithm design, data structures, file p
 
 ---
 
+CS250 – Software Development Lifecycle
+ 
+**Artifact:**  
+[Final Project – Sprint Review and Retrospective](CS250/SprintReviewRetrospective/FinalProject.docx)
+
+
+Reflection:  
+In CS250, I focused on applying Agile and Scrum practices through the development of the Sprint Review and Retrospective. This artifact represents the work I did throughout the course to understand how iterative development, team communication, and user‑centered planning come together in a real project. The goal was to evaluate the sprint outcomes, identify what went well, and document areas for improvement so the team could adjust and deliver better results in future iterations.
+
+Interpreting user needs begins with understanding what the user is trying to accomplish, not just what features they ask for. Creating user stories helps with this because each story forces me to think about the user’s goal, the value they expect, and the conditions that define success. Writing user stories made it easier to translate user expectations into actionable development tasks that fit naturally into a sprint.
+
+My approach to developing programs has changed because of this course. I now think in smaller increments, focusing on delivering working pieces of functionality instead of trying to build everything at once. Agile processes like sprint planning, daily standups, and retrospectives help keep development organized and adaptable. In future work, I want to continue using iterative development, backlog refinement, and regular feedback cycles because they make projects easier to manage and improve over time.
+
+Being a good team member in software development means communicating clearly, staying accountable for your tasks, and supporting the team’s shared goals. It also means being open to feedback and willing to adjust when something isn’t working. The retrospective process reinforced how important it is to reflect honestly on what went well and what needs improvement so the team can grow stronger with each sprint.
