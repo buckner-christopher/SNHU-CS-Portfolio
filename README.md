@@ -78,9 +78,8 @@ Being a good team member in software development means communicating clearly, st
 ## CS255 – System Analysis and Design
 
 **Artifact:**
-[Project One - DriverPass Business Requirements Document]
-
-[Project Two - DriverPass System Design Document]
+[[Project One - DriverPass Business Requirements Document]](https://github.com/buckner-christopher/SNHU-CS-Portfolio/blob/main/CS255/CS%20255%20Business%20Requirements%20Document.docx)
+[Project Two - DriverPass System Design Document]https://github.com/buckner-christopher/SNHU-CS-Portfolio/blob/main/CS255/CS%20255%20System%20Design%20Document.docx
 
 Reflection:
 For CS255, I added both the DriverPass Business Requirements Document and System Design Document to my portfolio. The DriverPass project focused on designing a system that would help students prepare for DMV driving tests through online study materials, practice exams, driving lesson scheduling, and progress tracking. The client wanted a web‑based solution that would improve access to driver education resources while providing administrators and instructors with tools to manage customers, appointments, and training activities.
