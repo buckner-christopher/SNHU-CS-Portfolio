@@ -77,12 +77,13 @@ Being a good team member in software development means communicating clearly, st
 
 ## CS255 – System Analysis and Design
 
-**Artifact:**
-[[Project One - DriverPass Business Requirements Document]](https://github.com/buckner-christopher/SNHU-CS-Portfolio/blob/main/CS255/CS%20255%20Business%20Requirements%20Document.docx)
-[Project Two - DriverPass System Design Document]https://github.com/buckner-christopher/SNHU-CS-Portfolio/blob/main/CS255/CS%20255%20System%20Design%20Document.docx
+**Artifacts:**  
+[Project One – DriverPass Business Requirements Document](CS255/CS%20255%20Business%20Requirements%20Document.docx)
 
-Reflection:
-For CS255, I added both the DriverPass Business Requirements Document and System Design Document to my portfolio. The DriverPass project focused on designing a system that would help students prepare for DMV driving tests through online study materials, practice exams, driving lesson scheduling, and progress tracking. The client wanted a web‑based solution that would improve access to driver education resources while providing administrators and instructors with tools to manage customers, appointments, and training activities.
+[Project Two – DriverPass System Design Document](CS255/CS%20255%20System%20Design%20Document.docx)
+
+**Reflection:**  
+For CS255, I added both the DriverPass Business Requirements Document and System Design Document to my portfolio. The DriverPass project focused on designing a system that would help students prepare for DMV driving tests through online study materials, practice exams, driving lesson scheduling, and progress tracking. The client wanted a web based solution that would improve access to driver education resources while providing administrators and instructors with tools to manage customers, appointments, and training activities.
 
 One thing I did particularly well in this project was translating the client's interview and requirements into clear documentation. Creating the business requirements document helped me identify the client's goals, functional requirements, and business needs before moving into the design phase. This process made it easier to create a system design that aligned with the client's expectations and addressed the needs of multiple types of users.
 
@@ -90,4 +91,4 @@ If I could revise one part of this project, I would expand the system design doc
 
 Interpreting the user's needs was one of the most important aspects of this project. I carefully reviewed the client's requests and translated them into specific features and requirements that supported their business goals. Considering user needs is essential because even a technically sound system will fail if it does not solve the problems users face or provide the functionality they expect.
 
-This project reinforced my approach to software design, which begins with understanding requirements, identifying constraints, and documenting system behavior, I was able to create a design that addressed both business and user needs. In future projects, I will continue using requirements analysis, modeling techniques, and design reviews to ensure systems are well planned, maintainable, and aligned with client expectations.
+This project reinforced my approach to software design, which begins with understanding stakeholder requirements before developing technical solutions. By n that addressed both business and user needs. In future projects, I will continue using requirements analysis, modeling techniques, and design reviews to ensure systems are well planned, maintainable, and aligned with client expectations.
