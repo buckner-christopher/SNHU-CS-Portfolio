@@ -58,7 +58,7 @@ This project strengthened my skills in algorithm design, data structures, file p
 
 ---
 
-CS250 – Software Development Lifecycle
+## CS250 – Software Development Lifecycle
  
 **Artifact:**  
 [Final Project – Sprint Review and Retrospective](CS250/SprintReviewRetrospective/FinalProject.docx)
@@ -72,3 +72,23 @@ Interpreting user needs begins with understanding what the user is trying to acc
 My approach to developing programs has changed because of this course. I now think in smaller increments, focusing on delivering working pieces of functionality instead of trying to build everything at once. Agile processes like sprint planning, daily standups, and retrospectives help keep development organized and adaptable. In future work, I want to continue using iterative development, backlog refinement, and regular feedback cycles because they make projects easier to manage and improve over time.
 
 Being a good team member in software development means communicating clearly, staying accountable for your tasks, and supporting the team’s shared goals. It also means being open to feedback and willing to adjust when something isn’t working. The retrospective process reinforced how important it is to reflect honestly on what went well and what needs improvement so the team can grow stronger with each sprint.
+
+---
+
+## CS255 – System Analysis and Design
+
+**Artifact:**
+[Project One - DriverPass Business Requirements Document]
+
+[Project Two - DriverPass System Design Document]
+
+Reflection:
+For CS255, I added both the DriverPass Business Requirements Document and System Design Document to my portfolio. The DriverPass project focused on designing a system that would help students prepare for DMV driving tests through online study materials, practice exams, driving lesson scheduling, and progress tracking. The client wanted a web‑based solution that would improve access to driver education resources while providing administrators and instructors with tools to manage customers, appointments, and training activities.
+
+One thing I did particularly well in this project was translating the client's interview and requirements into clear documentation. Creating the business requirements document helped me identify the client's goals, functional requirements, and business needs before moving into the design phase. This process made it easier to create a system design that aligned with the client's expectations and addressed the needs of multiple types of users.
+
+If I could revise one part of this project, I would expand the system design documentation with additional diagrams and more detailed technical specifications. While the design met the project requirements, adding more information about database structure, security controls, and system architecture would create a stronger foundation for future development and implementation.
+
+Interpreting the user's needs was one of the most important aspects of this project. I carefully reviewed the client's requests and translated them into specific features and requirements that supported their business goals. Considering user needs is essential because even a technically sound system will fail if it does not solve the problems users face or provide the functionality they expect.
+
+This project reinforced my approach to software design, which begins with understanding requirements, identifying constraints, and documenting system behavior, I was able to create a design that addressed both business and user needs. In future projects, I will continue using requirements analysis, modeling techniques, and design reviews to ensure systems are well planned, maintainable, and aligned with client expectations.
