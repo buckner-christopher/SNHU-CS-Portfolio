@@ -92,3 +92,23 @@ If I could revise one part of this project, I would expand the system design doc
 Interpreting the user's needs was one of the most important aspects of this project. I carefully reviewed the client's requests and translated them into specific features and requirements that supported their business goals. Considering user needs is essential because even a technically sound system will fail if it does not solve the problems users face or provide the functionality they expect.
 
 This project reinforced my approach to software design, which begins with understanding stakeholder requirements before developing technical solutions. By n that addressed both business and user needs. In future projects, I will continue using requirements analysis, modeling techniques, and design reviews to ensure systems are well planned, maintainable, and aligned with client expectations.
+
+---
+
+## CS305 – Software Security
+
+**Artifact:**  
+[Artemis Financial Vulnerability Assessment Report](CS305/CS%20305%20Project%20One.docx)
+
+**Reflection:**  
+For CS305, I selected the Artemis Financial Vulnerability Assessment Report as my portfolio artifact. Artemis Financial is a company that develops individualized financial plans for its customers and handles sensitive financial information, including investment accounts, retirement planning, and insurance data. The goal of this project was to identify software security vulnerabilities within the company's application and develop recommendations to strengthen the overall security posture of the system.
+
+One thing I did particularly well in this project was analyzing potential vulnerabilities and identifying security risks that could affect the confidentiality, integrity, and availability of customer information. Through both manual code review and dependency analysis, I was able to identify issues such as missing authentication, lack of input validation, hardcoded credentials, insecure database connections, and vulnerable software dependencies. Coding securely is important because it helps protect sensitive data, reduces the likelihood of successful attacks, and supports customer trust. Strong software security also helps organizations avoid financial losses, legal consequences, and reputational damage.
+
+One of the most helpful aspects of the vulnerability assessment was learning how to use automated dependency scanning tools to identify known security vulnerabilities within third party libraries. Reviewing dependency reports demonstrated how software can become vulnerable even when application code itself has not changed. The most challenging part of the project was interpreting security findings and determining which remediation strategies would have the greatest impact on reducing risk.
+
+To increase layers of security, I recommended implementing authentication and authorization controls, validating user input, encrypting communications, securing database credentials, improving error handling, and updating vulnerable dependencies. In future projects, I would continue using vulnerability assessments, dependency scanning tools, static analysis tools, and secure coding standards to evaluate software security and determine the most effective mitigation techniques.
+
+I ensured the software remained functional and secure by reviewing code changes, validating security improvements, and considering how each remediation effort affected the overall application. After refactoring code or updating dependencies, it is important to rerun testing and security scans to verify that vulnerabilities have been addressed without introducing new issues.
+
+Throughout this project, I used tools and practices such as OWASP Dependency Check, secure coding principles, vulnerability analysis, threat identification, and risk mitigation planning. These resources will continue to be valuable in future coursework and professional development. This artifact demonstrates my ability to evaluate software security risks, identify vulnerabilities, and develop practical recommendations, making it a strong example of my cybersecurity and secure software development skills.
